@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Map />
-      <h1 className="text-3xl font-bold underline">
+      {/* <h1 className="text-3xl font-bold underline relative">
       Hello world!
       </h1>
       <div className='flex'>
@@ -20,7 +20,7 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
-      </div>
+      </div> */}
 
     </>
   )
